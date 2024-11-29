@@ -11,10 +11,7 @@ CODEX is a Remote Code Executor which lets you execute short code snippets of yo
 [Demo Link](https://www.youtube.com/watch?v=TSeHKnyP0CI)
 
 ## Authors
-
-- [@goldsnort](https://www.github.com/goldsnort)
-- [@Rithvik0701](https://www.github.com/Rithvik0701)
-- [@pragya0629](https://www.github.com/pragya0629)
+Mayank Singh 
 
 
 ## Features
